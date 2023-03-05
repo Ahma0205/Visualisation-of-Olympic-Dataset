@@ -1,5 +1,5 @@
-# Tableau
-Visualisation with Tableau:
+# Visualisation-of-Olympic-Dataset
+Tableau
 This Tableau file is a class project for visualizaion in the beginers level. The data set is downloaded from Kagle and it is about the Olympic and medals winners.
 It contains 13 slides and 4 Dashboard and 1 story.
 It starts from general information about the Olympic and then focus on USA as the country with most medals winners in recent decades and try to highlight the reason behind USA success.
