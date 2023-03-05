@@ -1,4 +1,4 @@
-# Visualisation-with-Tableau
+# Tableau
 Visualisation with Tableau:
 This Tableau file is a class project for visualizaion in the beginers level. The data set is downloaded from Kagle and it is about the Olympic and medals winners.
 It contains 13 slides and 4 Dashboard and 1 story.
